@@ -19,7 +19,7 @@ Tux Physics Tails is a customizable, client-side physics-style animation engine 
 
 | Edition | File | For |
 | --- | --- | --- |
-| **Roblox Studio** | [`TuxPhysicsTails-v4.2.rbxm`](versions/TuxPhysicsTails-v4.2.rbxm) | Import directly into Roblox Studio |
+| **Roblox Studio** | [`TuxPhysicsTails-v4.2.rbxm`](https://github.com/R3dTuxedo/tux-physics-tails-v4/releases/latest/download/TuxPhysicsTails-v4.2.rbxm) | Import directly into Roblox Studio |
 | **Rojo / source** | `View Source Code` | Browse, clone, or download the source from GitHub |
 
 Only the complete Studio model and Rojo source are distributed; there are no separate partial client/engine downloads.

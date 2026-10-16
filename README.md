@@ -145,3 +145,15 @@ Tux Physics Tails has not been verified in every avatar-rig/network-ownership co
 ## Creator and credit
 
 **Created by [@R3dTuxedo](https://www.roblox.com/users/120018794/profile).** Credit the creator in your game description or an in-game credits location. See the original [Tux Physics Tails community thread](https://devforum.roblox.com/t/tux-physics-tails-v3/3648854).
+
+## License
+
+Tux Physics Tails is free to use in personal and commercial Roblox experiences, subject to the [Tux Physics Tails Attribution License](LICENSE).
+
+**Creator credit is required.** If you use Tux Physics Tails in a publicly accessible experience, you must credit **[@R3dTuxedo](https://www.roblox.com/users/120018794/profile)** in your experience description or an accessible in-game credits section.
+
+Example attribution:
+
+> Tail physics by @R3dTuxedo
+
+You may modify and redistribute the engine, provided you retain the original copyright notice and license.

@@ -1,0 +1,25 @@
+{
+  "name": "TuxPhysicsTails",
+  "tree": {
+    "$className": "DataModel",
+    "$ignoreUnknownInstances": true,
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "$ignoreUnknownInstances": true,
+      "TuxPhysicsTails": {
+        "$path": "src/ReplicatedStorage/TuxPhysicsTails"
+      }
+    },
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "$ignoreUnknownInstances": true,
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "$ignoreUnknownInstances": true,
+        "TuxPhysicsTailsClient": {
+          "$path": "src/StarterPlayer/StarterPlayerScripts/TuxPhysicsTails.client.luau"
+        }
+      }
+    }
+  }
+}

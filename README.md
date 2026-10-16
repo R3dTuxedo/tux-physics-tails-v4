@@ -144,7 +144,7 @@ Tux Physics Tails has not been verified in every avatar-rig/network-ownership co
 
 ## Creator and credit
 
-**Created by [@R3dTuxedo](https://www.roblox.com/users/120018794/profile).** Credit the creator in your game description or an in-game credits location. See the original [Tux Physics Tails community thread](https://devforum.roblox.com/t/tux-physics-tails-v3/3648854).
+**Created by [@R3dTuxedo](https://www.roblox.com/users/120018794/profile).** Credit the creator in your game description or an in-game credits location. See the original [Tux Physics Tails community thread](https://devforum.roblox.com/t/tux-physics-tails-v4/4937224).
 
 ## License
 
